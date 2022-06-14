@@ -1,0 +1,214 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+.container{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+    background-color: wheat;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    height: 350px;
+}
+
+.my-foto{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0 0 0 / 97%);
+    height: 100%;
+    padding: 20px 30px;
+    width: 30%;
+    border-right: 2px solid #857f7f;
+}
+
+.my-foto img{
+    width: 240px;
+    border-radius: 135px;
+}
+
+.name-wrapper{
+    width: 70%;
+    height: 100%;
+    padding: 50px 100px;
+}
+
+h1{
+    width: 270px;
+}
+
+.my-name{
+    margin: 5px 0;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 50px;
+}
+
+.profession{
+    margin-top: 30px;
+    font-size: 22px;
+    font-weight: 300;
+}
+.contact-wrapper{
+    margin-top: 35px
+}
+
+.title{
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 600;
+}
+
+.title-left{
+    color: #857f7f;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 600;
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+.contacts-list{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+    list-style-type: none;
+}
+
+.contacts-title{
+    font-size: 16px;
+}
+
+.contacts-info{
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.about-me{
+    display: flex;
+}
+
+.left-box{
+    box-sizing: border-box;
+    padding: 20px 60px;
+    width: 30%;
+    border-top: 2px solid #857f7f;
+    border-right: 1px solid #857f7f;
+    background-color: rgb(0 0 0 / 97%);
+}
+
+.right-box{
+    padding: 20px 100px;
+    width: 70%;
+    border-top: 2px solid #857f7f;
+}
+
+.text-description{
+    color: #000000;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.skills{
+    display: flex;
+}
+
+.skills-list{
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+    color: #a4a5a6;
+}
+
+.progress{
+    margin: 5px 0;
+    width: 300px;
+    background-color: #000000;
+}
+
+.html{
+    width: 75%;
+    height: 5px;
+    background-color: red;
+}
+
+.css{
+    width: 75%;
+    height: 5px;
+    background-color: red;
+}
+
+.java-script{
+    width: 50%;
+    height: 5px;
+    background-color: red;
+}
+
+.git{
+    width: 50%;
+    height: 5px;
+    background-color: red;
+}
+
+.code-example{
+    display: flex;
+}
+
+.code-box{
+    color: #a4a5a6;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #0d0d0e;
+}
+
+.education{
+    display: flex;
+}
+
+.university{
+    margin: 5px 0;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.english{
+    display: flex;
+}
+
+.footer{
+    border-top: 2px solid #857f7f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #000000;
+}
+
+.footer-links{
+    align-items: center;
+    margin: 2px 0;
+    width: 300px;
+    border: 3px solid black;
+    border-radius: 15px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+}
+
+.rs-logo{
+    width: 75px;
+}
+
+.year{
+    text-align: center;
+    width: 100%;
+    height: 20px;
+    background-color: #2d2d31;
+    color: #857f7f;
+}
