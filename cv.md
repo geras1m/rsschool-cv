@@ -1,9 +1,6 @@
 
  #Hi!  I'm Anton.
 
-
-
-
 ![photo](./img/myfoto.jpg)
 
  ##About me
@@ -33,7 +30,7 @@ function multiply(a, b){
 
 ##Contacts:
 - **Email**: anton94-94@list.ru
-- **Phone number**: +375(29) 740 64 32.
+- **Phone number**: +375 (29) 740 64 32.
 - [GitHub](https://github.com/geras1m)
 - [Instagram](www.instagram.com/goldovsky.a/?hl=ru)
 - [in](www.linkedin.com/in/anton-goldovsky-963a8522b)
