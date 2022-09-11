@@ -19,7 +19,7 @@ I am motivated to improve my skills and get a job.
 
 - **Education** : Mogilev State University of Food Technology.
 
-- **English level** : А2 (Pre-intermediate).
+- **English level** : А2 (B1 in progress).
 
 ##Code example:
 ```
